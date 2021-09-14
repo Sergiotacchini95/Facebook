@@ -1,0 +1,10 @@
+<? xml version = " 1.0 " encodage = " UTF-8 " ?>
+< projet-facettes >
+  < nom d' exécution  = " Apache Tomcat v9.0 " />
+  < facette fixe  = " jst.web " />
+  < facette fixe  = " java " />
+  < facette fixe  = " wst.jsdt.web " />
+  < facette installée  = " java " version = " 1.8 " /> 
+  < facette installée  = " jst.web " version = " 4.0 " /> 
+  < facette installée  = " wst.jsdt.web " version = " 1.0 " /> 
+</ faceted-project >
