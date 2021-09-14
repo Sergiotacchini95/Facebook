@@ -1,0 +1,2 @@
+Manifeste-Version : 1.0
+Classe-Chemin : 
