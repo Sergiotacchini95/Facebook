@@ -1,0 +1,31 @@
+<? xml version = " 1.0 " encodage = " UTF-8 " ?>
+< Description du projet >
+	< name >TaskTrack</ name >
+	< commentaire ></ commentaire >
+	< projets >
+	</ projets >
+	< buildSpec >
+		< commande de construction >
+			< nom >org.eclipse.jdt.core.javabuilder</ nom >
+			< arguments >
+			</ arguments >
+		</ buildCommand >
+		< commande de construction >
+			< nom >org.eclipse.wst.common.project.facet.core.builder</ nom >
+			< arguments >
+			</ arguments >
+		</ buildCommand >
+		< commande de construction >
+			< nom >org.eclipse.wst.validation.validationbuilder</ nom >
+			< arguments >
+			</ arguments >
+		</ buildCommand >
+	</ buildSpec >
+	< natures >
+		< nature >org.eclipse.jem.workbench.JavaEMFNature</ nature >
+		< nature >org.eclipse.wst.common.modulecore.ModuleCoreNature</ nature >
+		< nature >org.eclipse.wst.common.project.facet.core.nature</ nature >
+		< nature >org.eclipse.jdt.core.javanature</ nature >
+		< nature >org.eclipse.wst.jsdt.core.jsNature</ nature >
+	</ natures >
+</ description du projet >
