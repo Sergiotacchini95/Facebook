@@ -1,0 +1,12 @@
+<? xml version = " 1.0 " encodage = " UTF-8 " ?>
+< chemin de classe >
+	< classpathentry  excluant = " **/bower_components/*|**/node_modules/*|**/*.min.js "  kind = " src "  path = " WebContent " />
+	< classpathentry  kind = " con "  path = " org.eclipse.wst.jsdt.launching.JRE_CONTAINER " />
+	< classpathentry  kind = " con "  path = " org.eclipse.wst.jsdt.launching.WebProject " >
+		< attributs >
+			< nom d' attribut  = " masquer " valeur = " vrai " /> 
+		</ attributs >
+	</ classpathentry >
+	< classpathentry  kind = " con "  path = " org.eclipse.wst.jsdt.launching.baseBrowserLibrary " />
+	< classpathentry  kind = " output "  path = " " />
+</ chemin de classe >
